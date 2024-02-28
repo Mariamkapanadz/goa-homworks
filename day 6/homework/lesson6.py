@@ -1,0 +1,6 @@
+name=input("enter your name ")
+username=input("enter your username")
+age=input("enter your age")
+locacione=input("enter your locacione")
+higt=input("enter your  higt")
+print (name,username,age,locacione,higt)

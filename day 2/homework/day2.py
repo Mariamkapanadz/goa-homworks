@@ -1,0 +1,1 @@
+print("i tink goa is perfect academy in the georgia ")
