@@ -1,0 +1,5 @@
+mum=input("enter mum's age")
+dad=input("enter dad's age")
+me=input("enter your age")
+howmanyyearsaretheythenyou=input("enter number")
+print(mum,dad,me,howmanyyearsaretheythenyou)
